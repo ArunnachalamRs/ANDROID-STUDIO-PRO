@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Arunnachalam/AndroidStudioProjects/STARVIDEO_PLAYER2/app/src/main/res/drawable/button_color.xml" value="0.2703125" />
+        <entry key="..\:/Users/Arunnachalam/AndroidStudioProjects/STARVIDEO_PLAYER2/app/src/main/res/drawable/ic_baseline_folder_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Arunnachalam/AndroidStudioProjects/STARVIDEO_PLAYER2/app/src/main/res/layout/action_bar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Arunnachalam/AndroidStudioProjects/STARVIDEO_PLAYER2/app/src/main/res/layout/action_bar_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Arunnachalam/AndroidStudioProjects/STARVIDEO_PLAYER2/app/src/main/res/layout/actionbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Arunnachalam/AndroidStudioProjects/STARVIDEO_PLAYER2/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Arunnachalam/AndroidStudioProjects/STARVIDEO_PLAYER2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2703125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
