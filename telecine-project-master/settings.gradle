@@ -1,0 +1,3 @@
+rootProject.name = 'telecine-project'
+
+include ':telecine'

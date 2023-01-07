@@ -1,0 +1,13 @@
+allprojects {
+  buildscript {
+    repositories {
+      google()
+      jcenter()
+    }
+  }
+
+  repositories {
+    google()
+    jcenter()
+  }
+}
